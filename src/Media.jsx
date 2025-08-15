@@ -27,7 +27,7 @@ import img23 from "./assets/Screenshot_20250815-002838.jpg"
 
 export const Media = () => {
   const images = [
-    img1,img2,img3,img4,img5,img6,img7,img8,img9,img10,img11,img12,img13,img14,img15,img16,img17,img18,img19,img20img21,img22,img23
+    img1,img2,img3,img4,img5,img6,img7,img8,img9,img10,img11,img12,img13,img14,img15,img16,img17,img18,img19,img20,img21,img22,img23
   ]
   return (
     <section className="p-12">
